@@ -1,0 +1,63 @@
+Estructura..
+
+ 1 
+Saludo ++
+
+ 
+
+2 
+Motivo++ 
+
+
+
+
+3 Sondeo++
+
+
+
+
+4 Promoción++
+
+ 
+
+******************************
+
+
+
+5 
+Cac movistar
+
+ 
+Requisitos++
+
+
+
+
+6+ 
+Ubicar cac MOVISTAR
+
+
+7 +Indicar (allá le entregaremos un chip de la compañía de Movistar para que lo pruebe con su mismo nro... Ok ? 
+
+8) 
+Aclarar dudas
+
++
+
+
+9+ 
+Personalizar
+
+
++
+
+
+10+ 
+Proceso del nip
+
+
++
+
+
+11+ 
+Pasar a validación+
